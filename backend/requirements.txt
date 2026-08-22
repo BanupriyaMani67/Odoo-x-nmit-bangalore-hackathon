@@ -1,0 +1,12 @@
+Flask==3.0.3
+flask-cors==4.0.1
+flask-socketio==5.3.6
+python-socketio==5.11.3
+PyMySQL==1.1.1
+DBUtils==3.1.0
+PyJWT==2.9.0
+bcrypt==4.2.0
+python-dotenv==1.0.1
+google-auth==2.34.0
+requests==2.32.3
+uvicorn==0.30.6
